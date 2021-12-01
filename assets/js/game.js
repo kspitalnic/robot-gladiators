@@ -159,7 +159,11 @@ var shop = function() {
       }
     
       break;
+<<<<<<< HEAD
     case "LEAVE": //New case
+=======
+    CASE "LEAVE" //New case
+>>>>>>> feature/shop
     case "leave":
         window.alert("Leaving the store.");
         // do nothing, so function will end
